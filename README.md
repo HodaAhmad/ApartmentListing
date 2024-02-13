@@ -5,6 +5,8 @@ and a react native app
 
 ## Getting Started
 
+```bash
+
 To run backend locally: 
 navigate to Server directory and run npm run dev and make sure it is on port 3000
 
@@ -13,7 +15,6 @@ navigate to client directory,
 
 Run the development server:
 
-```bash
 npm run dev
 
 
