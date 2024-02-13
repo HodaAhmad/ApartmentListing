@@ -1,0 +1,60 @@
+{
+  "apartments": [
+    {
+      "img_file": "/images/apt1",
+      "name": "Apartment 1",
+      "price": "10000000",
+      "details": "details of the apartment 1",
+      "id": 1
+    },
+    {
+      "img_file": "/images/apt2",
+      "name": "Apartment 2",
+      "price": "2000000",
+      "details": "details of the apartment 2",
+      "id": 2
+    },
+    {
+      "img_file": "/images/apt3",
+      "name": "Apartment 3",
+      "price": "3000000",
+      "details": "details of the apartment 3",
+      "id": 3
+    },
+    {
+      "img_file": "/images/apt4",
+      "name": "Apartment 4",
+      "price": "4000000",
+      "details": "details of the apartment 4",
+      "id": 4
+    },
+    {
+      "img_file": "/images/apt5",
+      "name": "Apartment 5",
+      "price": "50000000",
+      "details": "details of the apartment 5",
+      "id": 5
+    },
+    {
+      "img_file": "/images/apt6",
+      "name": "Apartment 6",
+      "price": "6000000",
+      "details": "details of the apartment 6",
+      "id": 6
+    },
+    {
+      "img_file": "/images/apt7",
+      "name": "Apartment 7",
+      "price": "7000000",
+      "details": "details of the apartment 7",
+      "id": 7
+    },
+    {
+      "img_file": "/images/apt8",
+      "name": "Apartment 8",
+      "price": "8000000",
+      "details": "details of the apartment 8",
+      "id": 8
+    }
+  ]
+}
